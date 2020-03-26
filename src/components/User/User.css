@@ -1,0 +1,12 @@
+.allUsers{
+    display: flex;
+    width: 80%;
+}
+.user-container{
+    margin-left: 80px;
+    padding-right: 30px;
+    border-right: 1px solid gray;
+}
+.user-info{
+    padding-left: 40px;
+}

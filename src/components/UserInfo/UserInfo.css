@@ -1,0 +1,24 @@
+.userData{
+    display: flex;
+    padding-bottom: 20px;
+}
+
+.userData img{
+    width: 230px;
+    padding-right: 30px;
+}
+.main-btn{
+    width: 130px;
+    height: 40px; 
+    background: #cc822d;
+    color: #ffffff;
+    border-radius: 6px;
+    cursor: pointer;
+    border: 1px solid #cc822d;
+    transition: all linear 0.3s;
+}
+.main-btn:hover{
+        background: none;
+        color: black;
+        width: 260px;
+}
